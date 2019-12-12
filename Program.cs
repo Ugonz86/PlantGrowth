@@ -17,9 +17,10 @@ namespace PlantGrowth {
                     while (playing)
                     {
                         newPlant.Round();
-                        if (newPlant.GetHunger() == 0 || newPlant.GetThirst() == 0 || newPlant.GetSunLight() == 0)
+                        if (newPlant.GetHunger() <= 0 || newPlant.GetThirst() <= 0 || newPlant.GetSunLight() <= 0)
                             {
                                 playing = false;
+                                Console.WriteLine("you suck at plants");
                                 Main();
                             }
 

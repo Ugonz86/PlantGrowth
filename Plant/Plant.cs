@@ -39,16 +39,19 @@ namespace GrowPlant.Plant
                 _Hunger += 10;
                 _Thirst -= 7;
                 _SunLight -=4;
+                Console.WriteLine("\n\n\nHunger: " + _Hunger + " Thirst: " + _Thirst + " Sunlight: " + _SunLight + "\n");
                 break;
             case "w":
                 _Hunger -= 2;
                 _Thirst += 10;
                 _SunLight -=7;
+                Console.WriteLine("\n\n\nHunger: " + _Hunger + " Thirst: " + _Thirst + " Sunlight: " + _SunLight + "\n");
                 break;
             case "s":
                 _Hunger -= 6;
                 _Thirst -= 9;
                 _SunLight +=10;
+                Console.WriteLine("\n\n\nHunger: " + _Hunger + " Thirst: " + _Thirst + " Sunlight: " + _SunLight + "\n");
                 break;
             default:
                 Console.WriteLine("Invalid Input");
