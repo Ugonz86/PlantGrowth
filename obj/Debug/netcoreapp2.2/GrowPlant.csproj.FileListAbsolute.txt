@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.csprojAssemblyReference.cache
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.AssemblyInfo.cs
+/Users/Guest/Desktop/C#GrowPlant/bin/Debug/netcoreapp2.2/GrowPlant.deps.json
+/Users/Guest/Desktop/C#GrowPlant/bin/Debug/netcoreapp2.2/GrowPlant.runtimeconfig.json
+/Users/Guest/Desktop/C#GrowPlant/bin/Debug/netcoreapp2.2/GrowPlant.runtimeconfig.dev.json
+/Users/Guest/Desktop/C#GrowPlant/bin/Debug/netcoreapp2.2/GrowPlant.dll
+/Users/Guest/Desktop/C#GrowPlant/bin/Debug/netcoreapp2.2/GrowPlant.pdb
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.dll
+/Users/Guest/Desktop/C#GrowPlant/obj/Debug/netcoreapp2.2/GrowPlant.pdb
